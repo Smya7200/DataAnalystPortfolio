@@ -1,0 +1,38 @@
+--SQL Verify data
+------------------------
+-- Walmart Sales Data Set
+-- Analyst: Mya Smith
+------------------------
+
+--View data
+SELECT *
+FROM walmart_sales_raw
+LIMIT 10;
+
+--Count rows
+SELECT COUNT(*) AS total_rows
+FROM walmart_sales_raw;
+
+--Check for duplicates
+SELECT
+	store,
+	date,
+	COUNT(*)
+FROM walmart_sales_raw
+GROUP BY store, date
+HAVING COUNT(*) > 1; -- where a value is more than 1
+
+--Summary Statistics (weekly sales)
+SELECT
+	ROUND(MIN(weekly_sales), 2),
+	ROUND(MAX(weekly_sales), 2),
+	ROUND(AVG(weekly_sales), 2)
+FROM walmart_sales_raw;
+
+-- Average Sales By Store
+SELECT
+	store,
+	ROUND(AVG(weekly_sales), 2) AS avg_sales
+FROM walmart_sales_raw
+GROUP BY store
+ORDER BY avg_sales DESC;
