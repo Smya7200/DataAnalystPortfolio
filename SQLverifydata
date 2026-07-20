@@ -28,11 +28,3 @@ SELECT
 	ROUND(MAX(weekly_sales), 2),
 	ROUND(AVG(weekly_sales), 2)
 FROM walmart_sales_raw;
-
--- Average Sales By Store
-SELECT
-	store,
-	ROUND(AVG(weekly_sales), 2) AS avg_sales
-FROM walmart_sales_raw
-GROUP BY store
-ORDER BY avg_sales DESC;
