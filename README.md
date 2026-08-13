@@ -1,2 +1,21 @@
-# Walmart Sales Analysis
--- update once I finish
+Walmart Sales Analysis
+---------------------------------------------------------------------------------------------------------------------------------------------
+Description:
+
+
+Tools:
+
+
+Skills:
+
+
+Outputs:
+
+
+
+
+Datasets:
+
+
+
+Acknowledgements:
