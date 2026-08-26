@@ -2,7 +2,7 @@
 ## About
 Hello! My name is Mya, and I'm on track to complete my bachelors degree in Business Technology and Analytics. During my studies, I have continuously practiced finding datasets, cleaning data, develop a business question and determine KPI's, perform exploratory data analysis in PostgreSQL, Excel, and Python, visualize data findings, and write up actionable solutions backed by data.
 
-I have a keen interest to clean up data and identify patterns and trends in datasets. In my free time, I like to learn new tools and analysis techniques and learn through project based learning.
+I have a keen interest to clean up data and identify patterns and trends in datasets. In my free time, I like to learn new tools and analysis techniques and develop my skills through project based learning.
 
 This is a repository to record my projects and track my progress in Data Analytics.
 
