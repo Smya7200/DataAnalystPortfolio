@@ -29,7 +29,7 @@ In this section, I list the project repositories along with a brief explanation 
 
 **Description:** The goal of this project is to investigate holidays, date (month, year, and quarter), and economic/environmental factors that are potentially strongly associated with Walmart’s weekly sales. The analysis combines descriptive statistics, correlation analysis, statistical testing and modelling, regression, and data visualization to identify which factors are most relevant and which have limited explanatory power.
 
-**Technology Stack:** Excel, SQL, Python, Power BI
+**Technology Stack:** Excel, PostgreSQL, Python (Pycharm), Power BI
 
 **Skills Used:** data cleaning, data analysis, correlation analysis, multiple regression analysis, data visulization
 
