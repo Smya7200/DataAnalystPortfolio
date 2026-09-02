@@ -19,6 +19,8 @@ In this section I will briefly list data analytics projects describing the techn
 ## Walmart Sales Analysis Brief Summary:
 **Business Question:** What factors are strongly associated with Walmart’s weekly sales?
 
+**Dataset Used:** Walmart Sales by Mikhail -> (https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data)
+
 **PostgreSQL Code:** [Walmart Analysis SQL](https://github.com/Smya7200/Walmart_Sales_Analysis/blob/main/WalmartAnalysisSQL.sql)
 
 **Python Code:** [Walmart Analysis Python](https://github.com/Smya7200/Walmart_Sales_Analysis/blob/main/Walmart_Python_Analysis.py)
