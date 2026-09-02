@@ -13,6 +13,8 @@ This is a repository to record my projects and track my progress in Data Analyti
 
 
 ## Portfolio Projects Repository Links
+**Note: Please refer to the repository for greater detail, including dataset structures, insight summaries, limitations, and methodological summaries.**
+
 In this section, I list the project repositories along with a brief explanation of their goals and technologies used.
 - [Walmart Sales Analysis Repository](https://github.com/Smya7200/Walmart_Sales_Analysis)
 
