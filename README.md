@@ -14,7 +14,7 @@ This is a repository to record my projects and track my progress in Data Analyti
 
 ## Portfolio Projects Repository Links
 In this section, I list the project repositories along with a brief explanation of their goals and technologies used.
-- [Walmart Sales Analysis](https://github.com/Smya7200/Walmart_Sales_Analysis)
+- [Walmart Sales Analysis Repository](https://github.com/Smya7200/Walmart_Sales_Analysis)
 
 ## Walmart Sales Analysis Brief Summary:
 **Business Question:** What factors are strongly associated with Walmart’s weekly sales?
